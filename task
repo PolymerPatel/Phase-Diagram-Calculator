@@ -1,0 +1,36 @@
+Use Matlab to construct a publication quality composition-temperature phase diagram of a binary
+alloy at P=1 atm. Label all invariant points and other values of interest with their temperature and
+composition. 
+
+Be responsible for understanding all aspects of the creation of the phase diagram.
+
+Data you will need:
+
+cA,  
+p = 20.31 + 7.39   10􀀀3T J/mol K
+
+cA, L
+p = 32.01 􀀀 1.34   10􀀀3T J/mol K
+
+cB,  
+p = 30.63 􀀀 7.93   10􀀀3T + 2.03   105T􀀀2 J/mol K
+
+cB, L
+p = 31.40 J/mol K
+
+TAm = 601 K
+TBm = 904 K
+  HAm = 4800 J
+  HBm = 19890 J
+  AB = 21360 􀀀 5.66T J/L
+AB = 110 􀀀 2.5T + (XA 􀀀 XB) (420 􀀀 1.05T) J
+
+Optional add-on: The single phase solid solution limits of this binary solution (e.g., XA ! 1 and XB ! 1) are
+best characterized as two different regular solutions. The above considers only one of these phase ( ,
+stable in the limit XB !1). By plotting an extra free energy of mixing curve, correct the above phase
+diagram by also considering the solid phase  , which is stable in the limit XA ! 1. 
+
+Additional data you will need:
+HB,  
+m = 􀀀1 J
+  AB = 11400 􀀀 22.66T J
