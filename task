@@ -1,4 +1,4 @@
-Use Matlab to construct a publication quality composition-temperature phase diagram of a binary
+Use Matlab or Python to construct a publication quality composition-temperature phase diagram of a binary
 alloy at P=1 atm. Label all invariant points and other values of interest with their temperature and
 composition. 
 
